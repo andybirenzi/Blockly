@@ -1,3 +1,5 @@
+#This is a customizated Blockly with Nicer interface, color and layout... I will soon add a screenshot :)
+
 # BlocklyIntegration
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
